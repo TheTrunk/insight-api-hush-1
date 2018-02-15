@@ -60,7 +60,10 @@
     "poolName": "Suprnova",
     "url": "https://hush.suprnova.cc/",
     "searchStrings": [
-      "Suprnova"
+      "Suprnova",
+      "suprnova",
+      "supr nova",
+      "https://hush.suprnova.cc/"
     ]
   },
   {
@@ -92,7 +95,8 @@
     "url": "http://hush.cloudpools.net/",
     "searchStrings": [
       "Cloudpools",
-      "http://hush.cloudpools.net/"
+      "http://hush.cloudpools.net/",
+      "cloudpools"
     ]
   },
   {
